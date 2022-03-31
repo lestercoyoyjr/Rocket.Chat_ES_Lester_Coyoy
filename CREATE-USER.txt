@@ -1,0 +1,26 @@
+{
+    "user": {
+        "_id": "GCHCocjXom4SoP9uK",
+        "createdAt": "2022-03-31T21:13:28.798Z",
+        "username": "rocket-tester2",
+        "emails": [
+            {
+                "address": "email@example1.com",
+                "verified": false
+            }
+        ],
+        "type": "user",
+        "status": "offline",
+        "active": true,
+        "_updatedAt": "2022-03-31T21:13:28.921Z",
+        "__rooms": [
+            "GENERAL"
+        ],
+        "roles": [
+            "user"
+        ],
+        "name": "tester4",
+        "settings": {}
+    },
+    "success": true
+}

@@ -1,0 +1,111 @@
+{
+    "update": [
+        {
+            "_id": "9aHCBQfktsiq4Kwcg",
+            "fname": "Testing",
+            "customFields": {},
+            "description": "This is for testing",
+            "broadcast": false,
+            "encrypted": false,
+            "name": "Testing",
+            "t": "p",
+            "usersCount": 3,
+            "u": {
+                "_id": "pWeh2icaahv9ECCQL",
+                "username": "lcoyoy2022"
+            },
+            "ts": "2022-03-30T02:37:28.279Z",
+            "ro": false,
+            "default": false,
+            "sysMes": true,
+            "_updatedAt": "2022-03-30T04:15:40.541Z",
+            "lastMessage": {
+                "_id": "XvvDqGoxkRrAs6vDP",
+                "rid": "9aHCBQfktsiq4Kwcg",
+                "msg": "hello again",
+                "ts": "2022-03-30T04:15:40.498Z",
+                "u": {
+                    "_id": "L7YaTXikcw5Lx4zhW",
+                    "username": "testing-user",
+                    "name": "testing user"
+                },
+                "_updatedAt": "2022-03-30T04:15:40.533Z",
+                "urls": [],
+                "mentions": [],
+                "channels": [],
+                "md": [
+                    {
+                        "type": "PARAGRAPH",
+                        "value": [
+                            {
+                                "type": "PLAIN_TEXT",
+                                "value": "hello again"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "lm": "2022-03-30T04:15:40.498Z"
+        },
+        {
+            "_id": "GENERAL",
+            "ts": "2022-03-30T02:13:09.801Z",
+            "t": "c",
+            "name": "general",
+            "usernames": [],
+            "usersCount": 5,
+            "default": true,
+            "_updatedAt": "2022-03-31T21:13:28.829Z"
+        },
+        {
+            "_id": "he6ecocdyegLbPeng",
+            "fname": "Team-Tester",
+            "description": "Testing",
+            "broadcast": false,
+            "encrypted": false,
+            "teamMain": true,
+            "name": "Team-Tester",
+            "t": "p",
+            "usersCount": 3,
+            "u": {
+                "_id": "pWeh2icaahv9ECCQL",
+                "username": "lcoyoy2022"
+            },
+            "ts": "2022-03-31T20:14:23.644Z",
+            "ro": false,
+            "teamId": "62460b9f144bde060a10e344",
+            "default": false,
+            "sysMes": true,
+            "_updatedAt": "2022-03-31T20:14:28.801Z",
+            "lastMessage": {
+                "_id": "zLLzuoFpMmkzNq84u",
+                "rid": "he6ecocdyegLbPeng",
+                "msg": "hello team",
+                "ts": "2022-03-31T20:14:28.724Z",
+                "u": {
+                    "_id": "pWeh2icaahv9ECCQL",
+                    "username": "lcoyoy2022",
+                    "name": "Lester Coyoy"
+                },
+                "_updatedAt": "2022-03-31T20:14:28.791Z",
+                "urls": [],
+                "mentions": [],
+                "channels": [],
+                "md": [
+                    {
+                        "type": "PARAGRAPH",
+                        "value": [
+                            {
+                                "type": "PLAIN_TEXT",
+                                "value": "hello team"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "lm": "2022-03-31T20:14:28.724Z"
+        }
+    ],
+    "remove": [],
+    "success": true
+}
