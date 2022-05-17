@@ -1,0 +1,14 @@
+The server created in the document was deleted because I didn't receive any news from you after 30 days, but I didn't delete the
+server I used for the API comsuption. Here I give you the links.
+
+Information to connect:
+
+LINK: http://137.184.6.236:3000/ 
+USER: test-user-93519
+EMAIL: example15462@gmail.com
+PASS: https://api.ibizpanel.com/secret/dad693ae3793824d132ce19169ff2bab
+
+
+Please be aware this is a one-use link password. Once you use it, you must copy it and then you may close it because 
+if you close it and don't copy the link you won't be able to login and you'll have to ask for another password link. 
+Please let us know if it works for you.
